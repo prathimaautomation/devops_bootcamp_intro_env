@@ -22,8 +22,8 @@
 ![](VMsetup.png)
 
 - Create `Vagrantfile` in the current location
-  ```
-  Vagrant.configure("2") do |config|
+```Vagrantfile
+Vagrant.configure("2") do |config|
 
  config.vm.box = "ubuntu/xenial64"
 # creating a virtual machine ubuntu 
@@ -39,10 +39,9 @@
  config.vm.synced_folder ".", "/home/vagrant/app"
  
 end
-
 ```
 - create provision.sh
-```
+```provision.sh
 #!/bin/bash
 sudo apt-get update -y
 sudo apt-get upgrade -y

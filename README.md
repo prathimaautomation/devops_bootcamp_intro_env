@@ -1,9 +1,14 @@
-# DevOps Intro
-- 
-## Life before DevOps
--
-### Why DevOps
--
+# **DevOps Introduction**
+- DevOps is a culture that bridges the gap between Development and Operations- 
+
+## **Life before DevOps**
+- BEFORE DEVOPS, the model used for software development was the “WATERFALL” Model. This model is best suited when all the requirements are present beforehand.
+- Waterfall - The Waterfall methodology is a sequential development process that flows like a waterfall through all phases of a project (analysis, design, development, and testing, for example), with each phase completely wrapping up before the next phase begins. 
+- V-Model - The V-model is an SDLC model where execution of processes happens in a sequential manner in a V-shape. It is also known as Verification and Validation model.This means that for every single phase in the development cycle, there is a directly associated testing phase.
+
+- **Transition to Agile and SCRUM** 
+-  Agile provides a great way for organizations to manage uncertainty. Agile commits the development team to only small bites of work (a sprint) typically two to four weeks in length, and provides them with a method of effectively dealing with rapidly changing priorities and resource constraints.
+
 #### Key Pillars of DevOps
 - Ease of use
 - Flexibility
@@ -12,17 +17,6 @@
 
 ##### Monilith Architecture
 - A monolithic architecture is the traditional unified model for the design of a software program. Monolithic, in this context, means composed all in one piece. ... In a tightly-coupled architecture, each component and its associated components must be present in order for code to be executed or compiled.
- 
-- **DevOps Introduction**
-- DevOps is a culture that bridges the gap between Development and Operations
-
-- **Life before DevOps**
-- BEFORE DEVOPS, the model used for software development was the “WATERFALL” Model. This model is best suited when all the requirements are present beforehand.
-- Waterfall - The Waterfall methodology is a sequential development process that flows like a waterfall through all phases of a project (analysis, design, development, and testing, for example), with each phase completely wrapping up before the next phase begins. 
-- V-Model - The V-model is an SDLC model where execution of processes happens in a sequential manner in a V-shape. It is also known as Verification and Validation model.This means that for every single phase in the development cycle, there is a directly associated testing phase.
-
-- **Transition to Agile and SCRUM** 
--  Agile provides a great way for organizations to manage uncertainty. Agile commits the development team to only small bites of work (a sprint) typically two to four weeks in length, and provides them with a method of effectively dealing with rapidly changing priorities and resource constraints.
 
 ### Development Environment
 ![](VMsetup.png)
